@@ -1,6 +1,6 @@
 # Glassdoor Data Science Jobs: Data Cleaning and Analysis
 
-This repository documents the comprehensive data cleaning and analysis process for Glassdoor data science job listings. The aim is to prepare the dataset for insightful analysis and exploration of job market trends.
+This repository documents the comprehensive data cleaning and analysis process for Glassdoor data science job listings in USA. The aim is to prepare the dataset for insightful analysis and exploration of job market trends.
 
 ## Data Cleaning Steps:
 
